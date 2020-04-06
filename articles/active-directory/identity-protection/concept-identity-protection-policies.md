@@ -49,7 +49,7 @@ Identity Protection can calculate what it believes is normal for a user's behavi
 If risk is detected, users can perform self-service password reset to self-remediate and close the user risk event to prevent unnecessary noise for administrators.
 
 > [!NOTE] 
-> Users must have previously registered for self-service password reset before triggering the user risk policy.
+> Users must have previously registered for self-service password reset before triggering the user risk self-remediation.
 
 ## Next steps
 
